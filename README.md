@@ -32,3 +32,7 @@ In this project, I soldered male header pins onto an Arduino Nano to prepare it 
 After soldering header pins to the Arduino Nano, I built a test circuit by connecting the 5V pin to a 220Ω resistor in series with a red LED. The cathode of the LED was connected to GND. This setup powered the LED continuously to confirm that the solder joints and power rails were working correctly.
 </p>
 <img src="https://i.imgur.com/dlRxAnd.jpeg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<br />
+While inserting and removing the Nano from the breadboard required some force, the soldered pins remained secure and properly aligned, demonstrating strong mechanical and electrical connections. With the test circuit working, the setup is now ready for more complex prototyping and development.
+
+
