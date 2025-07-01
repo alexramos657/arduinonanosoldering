@@ -9,7 +9,6 @@ In this project, I soldered male header pins onto an Arduino Nano to prepare it 
 -<b>[Meakest Soldering Iron Kit](https://a.co/d/iiDJvhe)</b>
 -<b>[Soldering Tip Cleaning Kit](https://a.co/d/b44nGgX)</b>
 -<b>[Solder Fume Extractor](https://a.co/d/fHjA2xf)</b>
--<b>[Ohm’s Law Circuit Board](https://a.co/d/0s5BIxS)</b>
 
 <h2>Images</h2>
 
